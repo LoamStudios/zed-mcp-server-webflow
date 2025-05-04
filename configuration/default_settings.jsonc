@@ -1,0 +1,4 @@
+{
+  /// Your Webflow access token
+  "webflow_token": "YOUR_WEBFLOW_ACCESS_TOKEN"
+}
